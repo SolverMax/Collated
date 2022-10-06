@@ -1,10 +1,15 @@
 # Non-convex MINLP with Couenne
 
-## Summary
-Type: Non-linear functions
-Library:  Pyomo
-Solver:   Couenne
-Source:   https://helve-blog.com/posts/python/pyomo-couenne-nonconvex-minlp/ (in Japanese)
+## Description
+Summary: Minimize 2D polynomial with multiple local optima.
+
+Type:    Non-linear functions
+
+Library: Pyomo
+
+Solver:  Couenne
+
+Source:  https://helve-blog.com/posts/python/pyomo-couenne-nonconvex-minlp/ (in Japanese)
 
 ## Situation
 
