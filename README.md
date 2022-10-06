@@ -1,4 +1,4 @@
-# Collated
+# Collated optimization models
 In this repository we have collated optimization models from numerous sources.
 
 The models are grouped into categories, representing the type of problem, including:
