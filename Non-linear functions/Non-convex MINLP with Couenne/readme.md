@@ -1,8 +1,10 @@
 # Non-convex MINLP with Couenne
 
-Source: https://helve-blog.com/posts/python/pyomo-couenne-nonconvex-minlp/
-
-Note that the source blog is written in Japanese.
+## Summary
+Type: Non-linear functions
+Library:  Pyomo
+Solver:   Couenne
+Source:   https://helve-blog.com/posts/python/pyomo-couenne-nonconvex-minlp/ (in Japanese)
 
 ## Situation
 
