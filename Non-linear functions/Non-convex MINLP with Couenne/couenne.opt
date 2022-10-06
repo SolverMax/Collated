@@ -1,0 +1,3 @@
+problem_print_level 6
+feas_tolerance 1e-6
+time_limit 10
