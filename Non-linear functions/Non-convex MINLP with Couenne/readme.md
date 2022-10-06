@@ -3,17 +3,19 @@
 ## Description
 Summary: Minimize 2D polynomial with multiple local optima.
 
-Type:    Non-linear functions
+Category: Non-linear functions
+
+Type: Non-convex MINLP
 
 Library: Pyomo
 
-Solver:  Couenne
+Solver: Couenne
 
-Source:  https://helve-blog.com/posts/python/pyomo-couenne-nonconvex-minlp/ (in Japanese)
+Source: https://helve-blog.com/posts/python/pyomo-couenne-nonconvex-minlp/ (in Japanese)
 
 ## Situation
 
-The article describes how to install the Couenne solver on Windows, then presents an example of solving a model using Pyomo and Couenne.
+The source article describes how to install the Couenne solver on Windows, then presents an example of solving a model using Pyomo and Couenne.
 
 The model is a constrained, non-convex, mixed integer non-linear problem (MINLP), with the following formulation:
 
