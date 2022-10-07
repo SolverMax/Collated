@@ -1,18 +1,3 @@
-# Diet
+# The diet problem
 
-## Summary
-Description: Select foods that satisfy daily nutritional requirements at minimum cost.
-
-Category: Diet
-
-Type: MILP
-
-Library: Pyomo
-
-Solver: GLPK
-
-Source: https://notebook.community/Pyomo/PyomoGallery/diet/DietProblem
-
-## Notes
-
-The model has been modified to run as a Jupyter Notebook.
+The goal of the Diet Problem is to select foods that satisfy daily nutritional requirements at minimum cost.
