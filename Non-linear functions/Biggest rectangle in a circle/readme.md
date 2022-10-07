@@ -15,4 +15,4 @@ Source: https://github.com/iamtushara/operations-research-notebooks/blob/master/
 
 ## Notes
 
-Includes alternative scenarios where the values of some variables are fixed.
+Includes alternative scenarios where the values of some variables are fixed/unfixed.
