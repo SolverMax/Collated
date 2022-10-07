@@ -8,3 +8,5 @@ The models are grouped into categories, representing the type of problem, includ
 - Non-linear functions.
 - Scheduling.
 - Shortest path.
+
+In some cases we have augmented the examples with notes and/or additional features.
