@@ -9,4 +9,4 @@ The models are grouped into categories, representing the type of problem, includ
 - Scheduling.
 - Shortest path.
 
-In some cases we have augmented the examples with notes and/or additional features.
+In some cases we have edited the source to make it run in a Jupyter notebook, to augment the example with notes, and/or add features to the original code.
