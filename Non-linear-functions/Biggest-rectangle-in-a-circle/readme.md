@@ -15,6 +15,6 @@ Source: https://github.com/iamtushara/operations-research-notebooks/blob/master/
 
 ## Notes
 
-Includes alternative scenarios where the values of some variables are fixed/unfixed.
+Includes alternative scenarios where the values of some variables are fixed/unfixed using the `fix()` and `unfix()` functions.
 
 Added printing of final solution.
