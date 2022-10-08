@@ -1,11 +1,11 @@
-# Diet in OR Tools
+# Diet in OR-Tools
 
 ## Summary
 Description: Select foods that satisfy daily nutritional requirements at minimum cost.
 
 Category: Diet.
 
-Type: MILP.
+Type: LP.
 
 Library: OR-Tools.
 
