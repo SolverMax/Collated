@@ -3,13 +3,13 @@
 ## Summary
 Description: Minimize 3D polynomial with multiple local optima.
 
-Category: Non-linear functions
+Category: Non-linear functions.
 
-Type: Non-convex MINLP
+Type: Non-convex MINLP.
 
-Library: Pyomo
+Library: Pyomo.
 
-Solver: Couenne
+Solver: Couenne.
 
 Source: https://helve-blog.com/posts/python/pyomo-couenne-nonconvex-minlp/ (in Japanese)
 
