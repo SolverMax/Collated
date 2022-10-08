@@ -3,13 +3,13 @@
 ## Summary
 Description: Select foods that satisfy daily nutritional requirements at minimum cost.
 
-Category: Diet
+Category: Diet.
 
-Type: MILP
+Type: MILP.
 
-Library: Pyomo
+Library: Pyomo.
 
-Solver: GLPK
+Solver: GLPK.
 
 Source: https://notebook.community/Pyomo/PyomoGallery/diet/DietProblem
 
