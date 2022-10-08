@@ -1,7 +1,7 @@
 # Diet in Pyomo
 
 ## Summary
-Description: Select foods that satisfy daily nutritional requirements at minimum cost.
+Description: Select foods that satisfy daily nutritional requirements at minimum cost. Integer variant, based on the number of servings of each food.
 
 Category: Diet.
 
