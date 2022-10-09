@@ -15,6 +15,5 @@ Source: https://github.com/iamtushara/operations-research-notebooks/blob/master/
 
 ## Notes
 
-Includes alternative scenarios where the values of some variables are fixed/unfixed using the `fix()` and `unfix()` Pyomo functions.
-
-Added printing of final scenario, which was omitted from original code.
+- Includes alternative scenarios where the values of some variables are fixed/unfixed using the `fix()` and `unfix()` Pyomo functions.
+- Added printing of final scenario, which was omitted from original code.
