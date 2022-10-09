@@ -11,7 +11,7 @@ Library: PuLP.
 
 Solver: CBC.
 
-Source: [[https://developers.google.com/optimization/lp/stigler_diet](https://github.com/glennmoy/stigler_diet)](https://github.com/keyush06/Linear-Optimization-Problem-using-PuLP)
+Source: https://github.com/glennmoy/stigler_diet
 
 ## Notes
 
