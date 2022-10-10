@@ -11,7 +11,7 @@ Library: SciPy.
 
 Solver: shgo, dual_annealing, and differential_evolution.
 
-Source: https://github.com/iamtushara/operations-research-notebooks/blob/master/notebooks/more-examples/01-biggest-rectangle-within-a-circle.ipynb
+Source: https://scipy.github.io/devdocs/tutorial/optimize.html#global-optimization
 
 ## Notes
 
