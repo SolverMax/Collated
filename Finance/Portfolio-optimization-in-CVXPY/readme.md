@@ -1,4 +1,4 @@
-# Portfolio optimization
+# Portfolio optimization in CVXPY
 
 ## Summary
 Description: Shows how to do portfolio optimization using CVXPY, maximizing risk-adjusted return.
