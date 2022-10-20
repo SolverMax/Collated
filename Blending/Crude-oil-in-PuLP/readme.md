@@ -17,4 +17,4 @@ Also see: https://medium.com/analytics-vidhya/crude-blending-gaining-a-competiti
 
 ## Notes
 
-The model implements an interesting method for displaying tables side by side to save vertical space.
+The model implements an interesting method for displaying tables side by side to save vertical space (works best with a wide screen).
