@@ -16,4 +16,4 @@ Source: https://github.com/jckantor/ND-Pyomo-Cookbook/blob/main/notebooks/04.03-
 ## Notes
 
 The model has been modified:
-- Added environmental variable for email address to use NEOS Server. Replace with your email address.
+- Added environmental variable for email address to use CPLEX via NEOS Server. Replace with your email address.
