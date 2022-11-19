@@ -1,6 +1,6 @@
 # Job shop scheduling
 
-We need to schedule some job on a set of machines.
+We need to schedule some jobs on a set of machines.
 
 The jobs may have different characteristics, such as processing times, priorities, and precedents. The machines may have different characteristics, such as processing power and capabilities.
 
