@@ -1,7 +1,7 @@
 # Job shop scheduling from Pyomo cookbook
 
 ## Summary
-Description: Runs several jop shop variations, including visualization of the resulting schedules.
+Description: Runs several job shop variations, including visualization of the resulting schedules.
 
 Category: Job shop.
 
