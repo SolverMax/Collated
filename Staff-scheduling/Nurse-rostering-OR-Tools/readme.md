@@ -3,7 +3,7 @@
 ## Summary
 Description: Roster nurses to shifts.
 
-Category: Nurse scheduling.
+Category: Staff scheduling.
 
 Type: Constraint satisfaction.
 
