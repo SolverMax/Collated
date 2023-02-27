@@ -15,7 +15,8 @@ Source: http://www.hakank.org/or_tools/post_office_problem2_sat.py
 
 ## Notes
 
-- Source has been converted to a Jupyter notebook.
-- The original model appears to be wrong, so a constraint has been modified.
+Source has been modified:
+- Converted to a Jupyter notebook.
+- The original model appears to be wrong, so a constraint has been corrected.
 - Added an additional component to the objective function.
 - Extended the output to provide additional information about the solution.
