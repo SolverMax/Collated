@@ -12,4 +12,5 @@ Library: CVXPY.
 
 Solver: ECOS.
 
-Source: https://mlabonne.github.io/blog/posts/2023-05-21-Nonlinear_optimization.html
+Notes:
+- Described in blog article: https://mlabonne.github.io/blog/posts/2023-05-21-Nonlinear_optimization.html
