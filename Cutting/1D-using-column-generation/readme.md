@@ -1,7 +1,7 @@
 # 1D cutting using column generation
 
 ## Summary
-Description: Solve a one-dimensional cutting problem using the column generation technique.
+Description: Solves a one-dimensional cutting problem using the column generation technique.
 
 Category: Cutting.
 
